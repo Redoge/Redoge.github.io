@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#000000;stroke-width:3.5;stroke-miterlimit:10;}
+</style>
+<g id="Слой_1">
+	<g>
+		<path d="M18,3.5c8,0,14.5,6.5,14.5,14.5S26,32.5,18,32.5S3.5,26,3.5,18S10,3.5,18,3.5 M18,0C8.1,0,0,8.1,0,18c0,9.9,8.1,18,18,18
+			s18-8.1,18-18C36,8.1,27.9,0,18,0L18,0z"/>
+	</g>
+</g>
+<g id="Голова" class="st0">
+	<g class="st1">
+		<circle cx="19" cy="6" r="2"/>
+		<path d="M19,5c0.6,0,1,0.4,1,1s-0.4,1-1,1s-1-0.4-1-1S18.4,5,19,5 M19,3c-1.7,0-3,1.3-3,3s1.3,3,3,3s3-1.3,3-3S20.7,3,19,3L19,3z"
+			/>
+	</g>
+</g>
+<g id="Слой_2">
+	<g>
+		<path class="st2" d="M13,2c0.7,14.3,0.2,24.6-9,25"/>
+	</g>
+	<path class="st2" d="M15.5,18.5"/>
+	<path class="st2" d="M7,5"/>
+	<path class="st2" d="M31,28c0-8.4-10.9-13.9-18-13"/>
+	<line class="st2" x1="17.5" y1="15.5" x2="17.5" y2="15.5"/>
+	<path class="st2" d="M11,15.5"/>
+	<path class="st2" d="M12,15.5"/>
+	<path class="st2" d="M26,4c0,5-5.4,9-12,9"/>
+	<path class="st2" d="M26,4c0-0.6,0-1,0-1"/>
+</g>
+</svg>
